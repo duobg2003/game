@@ -1,0 +1,17 @@
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\nguyenquocduong_21222110443.csproj.AssemblyReference.cache
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\nguyenquocduong_2122110443.bai28.resources
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\phamquangminh_2122110339.Properties.Resources.resources
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\nguyenquocduong_21222110443.csproj.GenerateResource.cache
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\nguyenquocduong_21222110443.csproj.CoreCompileInputs.cache
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\phamquangminh_2122110339.exe
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\phamquangminh_2122110339.pdb
+D:\games con gà\nguyenquocduong_212110443\bin\Debug\phamquangminh_2122110339.exe.config
+D:\games con gà\nguyenquocduong_212110443\bin\Debug\phamquangminh_2122110339.exe
+D:\games con gà\nguyenquocduong_212110443\bin\Debug\phamquangminh_2122110339.pdb
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\Interop.WMPLib.dll
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\AxInterop.WMPLib.dll
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\nguyenquocduong_21222110443.csproj.ResolveComReference.cache
+D:\games con gà\nguyenquocduong_212110443\bin\Debug\Interop.WMPLib.dll
+D:\games con gà\nguyenquocduong_212110443\bin\Debug\AxInterop.WMPLib.dll
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\nguyenquocduong_2122110443.Level2.resources
+D:\games con gà\nguyenquocduong_212110443\obj\Debug\Interop.MediaPlayer.dll

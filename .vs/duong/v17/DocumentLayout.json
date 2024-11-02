@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|d:\\games con g\u00E0\\nguyenquocduong_212110443\\level5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\level4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\level3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\level2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\level2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\level3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\level4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\level5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\level2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\level5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\level4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\level3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:level3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:bai28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:5:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|d:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:5:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:bai28.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:bai28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\images\\egg.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:images\\egg.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|nguyenquocduong_21222110443||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\images\\basket.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:images\\basket.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:4:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|d:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:4:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:bai28.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|phamquangminh_2122110339.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|phamquangminh_2122110339.csproj|solutionrelative:bai28.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:3:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|d:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:3:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:bai28.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\images\\broken_egg.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:images\\broken_egg.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|phamquangminh_2122110339.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|phamquangminh_2122110339.csproj|solutionrelative:bai28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|phamquangminh_2122110339.csproj|D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|phamquangminh_2122110339.csproj|solutionrelative:bai28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|d:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{D14C33E4-E345-4FD1-B979-6D16F536088D}|nguyenquocduong_21222110443.csproj|solutionrelative:bai28.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\games con g\u00E0\\nguyenquocduong_212110443\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\games con g\u00E0\\nguyenquocduong_212110443\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bai28.Designer.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.Designer.cs",
+              "RelativeDocumentMoniker": "bai28.Designer.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.Designer.cs",
+              "RelativeToolTip": "bai28.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:03:27.785Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Level5.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level5.cs",
+              "RelativeDocumentMoniker": "Level5.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level5.cs",
+              "RelativeToolTip": "Level5.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv0gBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:55:34.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:02:07.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level4.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level4.cs",
+              "RelativeDocumentMoniker": "Level4.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level4.cs",
+              "RelativeToolTip": "Level4.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:08:09.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Level2.cs [Design]",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level2.cs",
+              "RelativeDocumentMoniker": "Level2.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level2.cs [Design]",
+              "RelativeToolTip": "Level2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:42:23.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Level2.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level2.cs",
+              "RelativeDocumentMoniker": "Level2.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level2.cs",
+              "RelativeToolTip": "Level2.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:06:38.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level3.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level3.cs",
+              "RelativeDocumentMoniker": "Level3.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level3.cs",
+              "RelativeToolTip": "Level3.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAywE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:54:48.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Level3.cs [Design]",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level3.cs",
+              "RelativeDocumentMoniker": "Level3.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level3.cs [Design]",
+              "RelativeToolTip": "Level3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:54:34.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Level5.cs [Design]",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level5.cs",
+              "RelativeDocumentMoniker": "Level5.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level5.cs [Design]",
+              "RelativeToolTip": "Level5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:53:16.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Level4.cs [Design]",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level4.cs",
+              "RelativeDocumentMoniker": "Level4.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level4.cs [Design]",
+              "RelativeToolTip": "Level4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:06:37.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Level2.Designer.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level2.Designer.cs",
+              "RelativeDocumentMoniker": "Level2.Designer.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level2.Designer.cs",
+              "RelativeToolTip": "Level2.Designer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAFoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:47:10.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Level4.Designer.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level4.Designer.cs",
+              "RelativeDocumentMoniker": "Level4.Designer.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level4.Designer.cs",
+              "RelativeToolTip": "Level4.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:07:25.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Level5.Designer.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level5.Designer.cs",
+              "RelativeDocumentMoniker": "Level5.Designer.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level5.Designer.cs",
+              "RelativeToolTip": "Level5.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwEoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:53:34.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Level3.Designer.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level3.Designer.cs",
+              "RelativeDocumentMoniker": "Level3.Designer.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Level3.Designer.cs",
+              "RelativeToolTip": "Level3.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:54:40.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bai28.Designer.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.Designer.cs",
+              "RelativeDocumentMoniker": "bai28.Designer.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.Designer.cs",
+              "RelativeToolTip": "bai28.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:30:25.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bai28.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.cs",
+              "RelativeDocumentMoniker": "bai28.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.cs",
+              "RelativeToolTip": "bai28.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:17:01.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bai28.cs [Design]",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.cs",
+              "RelativeDocumentMoniker": "bai28.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.cs [Design]",
+              "RelativeToolTip": "bai28.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:17:01.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "egg.png - PNG [225x225, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Images\\egg.png",
+              "RelativeDocumentMoniker": "Images\\egg.png",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Images\\egg.png - PNG [225x225, 32 bit, PNG]",
+              "RelativeToolTip": "Images\\egg.png - PNG [225x225, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-18T05:56:09.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T03:30:50.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "nguyenquocduong_21222110443",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\nguyenquocduong_21222110443.csproj",
+              "RelativeDocumentMoniker": "nguyenquocduong_21222110443.csproj",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\nguyenquocduong_21222110443.csproj",
+              "RelativeToolTip": "nguyenquocduong_21222110443.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-17T10:22:34.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "basket.png - PNG [500x500, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Images\\basket.png",
+              "RelativeDocumentMoniker": "Images\\basket.png",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Images\\basket.png - PNG [500x500, 32 bit, PNG]",
+              "RelativeToolTip": "Images\\basket.png - PNG [500x500, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-18T05:56:04.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bai28.Designer.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.Designer.cs",
+              "RelativeDocumentMoniker": "bai28.Designer.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.Designer.cs",
+              "RelativeToolTip": "bai28.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:30:24.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bai28.Designer.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.Designer.cs",
+              "RelativeDocumentMoniker": "bai28.Designer.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.Designer.cs",
+              "RelativeToolTip": "bai28.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:30:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bai28.Designer.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.Designer.cs",
+              "RelativeDocumentMoniker": "bai28.Designer.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.Designer.cs",
+              "RelativeToolTip": "bai28.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:02:13.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "broken_egg.png - PNG [225x225, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Images\\broken_egg.png",
+              "RelativeDocumentMoniker": "Images\\broken_egg.png",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Images\\broken_egg.png - PNG [225x225, 32 bit, PNG]",
+              "RelativeToolTip": "Images\\broken_egg.png - PNG [225x225, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-18T05:55:57.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bai28.cs",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.cs",
+              "RelativeDocumentMoniker": "bai28.cs",
+              "ToolTip": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.cs",
+              "RelativeToolTip": "bai28.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:11:34.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\games con g\u00E0\\phamquangminh_2122110339\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\phamquangminh_2122110339\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:02:02.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bai28.cs [Design]",
+              "DocumentMoniker": "D:\\games con g\u00E0\\nguyenquocduong_212110443\\bai28.cs",
+              "RelativeDocumentMoniker": "bai28.cs",
+              "ToolTip": "D:\\games con g\u00E0\\phamquangminh_2122110339\\bai28.cs [Design]",
+              "RelativeToolTip": "..\\phamquangminh_2122110339\\bai28.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:01:48.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-phamquangminh_2122110339",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

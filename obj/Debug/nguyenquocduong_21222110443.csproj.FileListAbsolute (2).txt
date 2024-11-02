@@ -1,0 +1,44 @@
+D:\LTWindows(c#)\phamquangminh_2122110339\bin\Debug\phamquangminh_2122110339.exe.config
+D:\LTWindows(c#)\phamquangminh_2122110339\bin\Debug\phamquangminh_2122110339.exe
+D:\LTWindows(c#)\phamquangminh_2122110339\bin\Debug\phamquangminh_2122110339.pdb
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.csproj.AssemblyReference.cache
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai06.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.Bai07.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai08.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai9.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.Form1.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.Properties.Resources.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.csproj.GenerateResource.cache
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.csproj.CoreCompileInputs.cache
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.exe
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.pdb
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai10.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai11.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai23.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai24.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai25.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai26.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai27.resources
+D:\LTWindows(c#)\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai28.resources
+D:\games con gà\phamquangminh_2122110339\bin\Debug\phamquangminh_2122110339.exe.config
+D:\games con gà\phamquangminh_2122110339\bin\Debug\phamquangminh_2122110339.exe
+D:\games con gà\phamquangminh_2122110339\bin\Debug\phamquangminh_2122110339.pdb
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.csproj.AssemblyReference.cache
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai06.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.Bai07.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai08.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai10.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai11.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai23.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai24.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai25.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai26.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai27.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai28.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.bai9.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.Form1.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.Properties.Resources.resources
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.csproj.GenerateResource.cache
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.csproj.CoreCompileInputs.cache
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.exe
+D:\games con gà\phamquangminh_2122110339\obj\Debug\phamquangminh_2122110339.pdb
